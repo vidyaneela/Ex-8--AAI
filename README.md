@@ -51,7 +51,8 @@ except Exception as e:
     print(f'Error: {e}')
 ~~~
 <H3> Output:</H3>
-![326167857-16ea6943-3ef4-449b-84a4-0acb5fb5e11d](https://github.com/vidyaneela/Ex-8--AAI/assets/94169318/23d9ecf7-1367-4d33-8872-898364a57681)
+
+![326167857-16ea6943-3ef4-449b-84a4-0acb5fb5e11d](https://github.com/vidyaneela/Ex-8--AAI/assets/94169318/21f8aef1-8006-4abd-9e9f-ef4e6077c9e8)
 
 ![326167913-0246b676-4345-40fe-a177-1db4cdbc1734](https://github.com/vidyaneela/Ex-8--AAI/assets/94169318/4957b54b-d64c-46d7-a01f-71695bd54142)
 
